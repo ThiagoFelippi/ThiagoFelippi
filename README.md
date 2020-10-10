@@ -14,7 +14,7 @@ Today i'm working in NtConsult (brazilian software company) and program in Javas
 #### Passions
 
 I love music, I'm drummer and guitarrist. [bateria e guitarra]
-I like to much participate in software communities, therefore I write some posts in [Medium] (https://medium.com/@thiagocrespo241103).
+I like to much participate in software communities, therefore I write some posts in [Medium](https://medium.com/@thiagocrespo241103).
 
 I'm starting contribute in open source projects because so I can improve my knowledges and help software community!
 
