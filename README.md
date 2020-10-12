@@ -18,8 +18,8 @@ I'm studying Javascript, more focusing in NodeJS. I'm studying about microservic
 
 ## Fun Facts
 
-I love music! :musical_note:
-I play drums in a rock band and guitar in a blues band :guitar: 
+I love music! :musical_note: <br />
+I play drums in a rock band and guitar in a blues band :guitar:  <br />
 I like to much participate in software communities, therefore I write some posts in [Medium](https://medium.com/@thiagocrespo241103).
 
 ## 📝 Latest Blog Posts
