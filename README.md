@@ -15,7 +15,7 @@ I use some frameworks too:
 
 I'm working in NtConsult (:brazil: software company) and program in Javascript, node to backend and ReactJS in frontend.
 
-### :blue_book: Learning
+## :blue_book: Learning
 I'm studying Javascript, more focusing in NodeJS. I'm studying about microservices, devops and how I can improve performance in applications; <br />
 I'm starting contribute in open source projects because so I can improve my knowledges and help software community!
 
