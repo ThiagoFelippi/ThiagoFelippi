@@ -7,11 +7,7 @@
 <br />
 
 ## :boom: Experience :boom:
-My focus is Javascript and Java :coffee: 
-
-I use some frameworks too:
-* ReactJS
-* Spring framework
+I'm a Javascript programmer, I have experience with Express, NestJS, HapiJS, ReactJS, jQuery, Nextjs and GraphQL.
 
 I'm working in NtConsult (:brazil: software company) and program in Javascript, node to backend and ReactJS in frontend.
 
