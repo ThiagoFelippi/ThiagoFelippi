@@ -1,15 +1,14 @@
 <h1 align="center">  Hi, I'm Thiago! 👋 </h1>
 
 <p align="center">
-  I'm full stack developer and I programmer since my 15 years, I love technology and resolve problems! 
+  I'm full stack developer and I have more than 3+ years experience, I love technology and resolve problems! 
 </p>
 
 <br />
 
 ## :boom: Experience :boom:
-I'm a Javascript programmer, I have experience with Express, NestJS, HapiJS, ReactJS, jQuery, Nextjs and GraphQL.
-
-I'm working in NtConsult (:brazil: software company) and program in Javascript, node to backend and ReactJS in frontend.
+I work with Javascript, I have experience with Express, NestJS, HapiJS, ReactJS, jQuery, Nextjs and GraphQL.
+I love Cloud solutions and I work with AWS for a long time. I already used IAC solutions, like: Serverless framework and Terraform 
 
 ## :blue_book: Learning
 I'm studying Javascript, more focusing in NodeJS. I'm studying about microservices, devops and how I can improve performance in applications; <br />
@@ -20,10 +19,6 @@ I'm starting contribute in open source projects because so I can improve my know
 I love music! :musical_note: <br />
 I play drums in a rock band and guitar in a blues band :guitar:  <br />
 I like to much participate in software communities, therefore I write some posts in [Medium](https://medium.com/@thiagocrespo241103).
-
-## 📝 Latest Blog Posts
-[All you need know about microservices](https://medium.com/@thiagocrespo241103/microservi%C3%A7os-tudo-que-voc%C3%AA-precisa-saber-a307a64b4dc7) <br />
-[Clean code in 10 minutes](https://medium.com/@thiagocrespo241103/clean-code-em-10-minutos-7da00009b98e)
 
 ## 📫 How to reach me
 
